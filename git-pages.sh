@@ -4,9 +4,9 @@ echo "*****************************"
 echo "* PUSH CHANGES TO GIT PAGES *"
 echo "*****************************"
 
-FROM='~/Curro/cursos/reveal.js-pandoc-slides'
-FOLDERTO='~/Curro/github/gh-pages'
-TO='~/Curro/github/gh-pages/reveal.js-pandoc-slides'
+FROM='/home/adolfo/Curro/cursos/reveal.js-pandoc-slides'
+FOLDERTO='/home/adolfo/Curro/github/gh-pages'
+TO='/home/adolfo/Curro/github/gh-pages/reveal.js-pandoc-slides'
 
 DATE=`date +"%Y.%m.%d-%H:%M"`
 TO_OLD=$TO'-OLD-'$DATE
