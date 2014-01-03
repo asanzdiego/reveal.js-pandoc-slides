@@ -1,6 +1,6 @@
-% Deck.js & Pandoc
+% Reveal.js & Pandoc
 % Adolfo Sanz De Diego
-% May 2013
+% Enero 2014
 
 # About
 
