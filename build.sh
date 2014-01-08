@@ -63,7 +63,7 @@ function initExportFolder() {
 
   else
 
-    echo -e "Ceating folder...            ../export"
+    echo -e "Creating folder...             ../export"
     mkdir $FOLDER
   fi
 
