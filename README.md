@@ -13,7 +13,8 @@
 ### Dependencies
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) (needs to be installed)
-- [Reveal.js](http://lab.hakim.se/reveal-js/#/) (included)
+- [Phantom.js](http://phantomjs.org) (needs to be installed)
+- [Reveal.js](http://lab.hakim.se/reveal-js/#/) (downloaded automaticaly)
 
 ### Creation
 
@@ -56,7 +57,8 @@
 ### Dependencias
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) (necesita ser instalado)
-- [Reveal.js](http://lab.hakim.se/reveal-js/#/) (incluido)
+- [Phantom.js](http://phantomjs.org) (necesita ser instalado)
+- [Reveal.js](http://lab.hakim.se/reveal-js/#/) (descargado automaticamente)
 
 ### Creación
 

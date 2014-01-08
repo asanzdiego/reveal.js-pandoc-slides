@@ -74,6 +74,7 @@ es positivo o negativo.
 ## Dependencias
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) (necesita ser instalado)
+- [Phantom.js](http://phantomjs.org) (necesita ser instalado)
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) (incluido)
 
 ## Creación
