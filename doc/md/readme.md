@@ -73,6 +73,7 @@ if the general tweets feeling about a topic is positive or negative.
 ## Dependencies
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) (needs to be installed)
+- [Phantom.js](http://phantomjs.org) (needs to be installed)
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) (included)
 
 ## Creation
